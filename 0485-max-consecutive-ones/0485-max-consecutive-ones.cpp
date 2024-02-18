@@ -10,7 +10,7 @@ public:
             }
             else
             {
-                curr_num+=1;
+                curr_num++;
             }
             final_ans=max(final_ans,curr_num);
         }
